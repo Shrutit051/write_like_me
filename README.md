@@ -1,4 +1,3 @@
-Here's your **GitHub README** with the updated project name:  
 
 ---
 
